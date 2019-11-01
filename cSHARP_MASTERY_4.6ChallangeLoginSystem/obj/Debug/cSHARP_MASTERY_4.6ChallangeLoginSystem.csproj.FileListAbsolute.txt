@@ -1,0 +1,6 @@
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\bin\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.exe.config
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\bin\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.exe
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\bin\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.pdb
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\obj\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.csprojAssemblyReference.cache
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\obj\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.exe
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.6ChallangeLoginSystem\obj\Debug\cSHARP_MASTERY_4.6ChallangeLoginSystem.pdb

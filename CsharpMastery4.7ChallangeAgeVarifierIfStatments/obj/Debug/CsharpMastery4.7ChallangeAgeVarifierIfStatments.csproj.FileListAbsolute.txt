@@ -1,0 +1,6 @@
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\obj\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.csprojAssemblyReference.cache
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\bin\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.exe.config
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\bin\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.exe
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\bin\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.pdb
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\obj\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.exe
+C:\Users\Dor\Source\Repos\CsharpMastery4.7ChallangeAgeVarifierIfStatments\obj\Debug\CsharpMastery4.7ChallangeAgeVarifierIfStatments.pdb
