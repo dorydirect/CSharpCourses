@@ -1,0 +1,6 @@
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\bin\Debug\CSharpMastery_4.10_ShortIfStatments.exe.config
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\bin\Debug\CSharpMastery_4.10_ShortIfStatments.exe
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\bin\Debug\CSharpMastery_4.10_ShortIfStatments.pdb
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\obj\Debug\CSharpMastery_4.10_ShortIfStatments.csprojAssemblyReference.cache
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\obj\Debug\CSharpMastery_4.10_ShortIfStatments.exe
+C:\Users\Dor\Source\Repos\CSharpMastery_4.10_ShortIfStatments\obj\Debug\CSharpMastery_4.10_ShortIfStatments.pdb

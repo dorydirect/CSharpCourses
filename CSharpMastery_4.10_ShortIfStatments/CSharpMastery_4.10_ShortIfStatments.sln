@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMastery_4.10_ShortIfStatments", "CSharpMastery_4.10_ShortIfStatments.csproj", "{4BC8BCE6-A2C1-495B-8A31-BF74B0DCAD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC8BCE6-A2C1-495B-8A31-BF74B0DCAD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC8BCE6-A2C1-495B-8A31-BF74B0DCAD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC8BCE6-A2C1-495B-8A31-BF74B0DCAD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC8BCE6-A2C1-495B-8A31-BF74B0DCAD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5257C1F2-11A8-455F-9ED4-ECFF79A00EDF}
+	EndGlobalSection
+EndGlobal
