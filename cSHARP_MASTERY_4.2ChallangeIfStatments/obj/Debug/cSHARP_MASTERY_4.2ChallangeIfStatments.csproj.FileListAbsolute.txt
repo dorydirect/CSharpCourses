@@ -1,0 +1,6 @@
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\bin\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.exe.config
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\bin\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.exe
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\bin\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.pdb
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\obj\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.csprojAssemblyReference.cache
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\obj\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.exe
+C:\Users\Dor\Source\Repos\cSHARP_MASTERY_4.2ChallangeIfStatments\obj\Debug\cSHARP_MASTERY_4.2ChallangeIfStatments.pdb
