@@ -1,0 +1,6 @@
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\bin\Debug\CsharpMastery4.8_Switchs.exe.config
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\bin\Debug\CsharpMastery4.8_Switchs.exe
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\bin\Debug\CsharpMastery4.8_Switchs.pdb
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\obj\Debug\CsharpMastery4.8_Switchs.csprojAssemblyReference.cache
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\obj\Debug\CsharpMastery4.8_Switchs.exe
+C:\Users\Dor\Source\Repos\CsharpMastery4.8_Switchs\obj\Debug\CsharpMastery4.8_Switchs.pdb
